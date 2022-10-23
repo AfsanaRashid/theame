@@ -1,0 +1,93 @@
+/*******************************
+	All Responsive Code
+*******************************/
+@media only screen and (max-width: 968px){
+	header{
+		position: sticky;
+		top: 0;
+		z-index: 99999; 
+	}
+	.thumbnai-11{
+		margin-top: 20px;
+	}
+	.skill-share-inner{
+		margin-top: -85px;
+		margin-left: 300px;
+	}
+	.section-area-3{
+		padding-left: 150px;
+	}
+	.Features-area{
+		padding-left: 40px;
+	}
+	.Features-box-1{
+	  margin-top: 20px;
+	}
+	.section-area-5{
+		height: 100%;
+		padding-bottom: 30px;
+	}
+	.horizontal-tab .jq-tab-menu .jq-tab-title{
+		width: 150px;
+	}
+   .title-content {
+	   margin-top: 30px;
+   }
+   .box2{
+	   width: 500px;
+   }
+   .slider{
+	   margin-left: -90px;
+   }
+   .card-description{
+	width: 150%;
+    height: 450px;
+   }
+   .rating i.fa{
+	   margin-top: 20px;
+   }
+   .Features-box-2{
+	   height: 450px;
+   }
+   .section-title{
+	   text-align: center;
+   }
+   .client-area{
+      padding-top: 130%;
+	  margin-left: -95%;
+   }
+   .top-part{
+    width: 180px;
+    height: 100px;
+    padding: 5px;
+}
+.top-part img{
+	width: 50px;
+    padding-top: 30px;
+}
+.bottom-part{
+    width: 180px;
+    height: 50px;
+    border-top: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+   #verticalTab .jq-tab-menu .jq-tab-title{
+	margin-left: 80px;
+  }
+  .right-area{
+    margin-left: 20%;
+  }
+.Features-box-1{
+	margin-left: 70px;
+}
+ .form-control{
+	 width: 500px;
+ }
+ .msg-box{
+	 width: 500px;
+ }
+ .introduce{
+    height: 700px;  
+}
+}
